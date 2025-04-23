@@ -1,0 +1,4 @@
+[tool.poetry.dependencies]
+python = "^3.9"
+python-telegram-bot = "^20.3"
+python-dotenv = "^1.0.0"
